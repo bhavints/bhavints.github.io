@@ -1,5 +1,5 @@
 # Set theme
-remote_theme: daviddarnes/alembic
+# remote_theme: daviddarnes/alembic
 
 # File excludes
 exclude:
@@ -22,10 +22,10 @@ plugins:
 # Site settings
 url: 'www.bhavints.github.io'
 baseurl: ''
-title: 'Bhavin Shah's Universe'
+title: "Bhavin Shah's Universe"
 description: 'This is my new website'
 permalink: pretty
-logo: "../assets/profile.jpg"
+logo: '../assets/profile.jpg'
 
 # Pagination
 paginate: 5
@@ -52,5 +52,5 @@ collections:
     output: true
     description: "It's a start..."
     feature_text: |
-      Please read it please =)
+      Please read it please
     feature_image: "https://picsum.photos/2560/600?image=866"
