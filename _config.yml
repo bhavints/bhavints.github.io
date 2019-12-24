@@ -1,5 +1,5 @@
 # Set theme
-# remote_theme: daviddarnes/alembic
+remote_theme: daviddarnes/alembic
 
 # File excludes
 exclude:
@@ -20,12 +20,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'www.bhavints.github.io'
+url: 'https://mydomain.com'
 baseurl: ''
-title: "Bhavin Shah's Universe"
+title: 'My website'
 description: 'This is my new website'
 permalink: pretty
-logo: '../assets/profile.jpg'
+logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # Pagination
 paginate: 5
@@ -50,7 +50,7 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "It's a start..."
+    description: "My thoughts and ideas"
     feature_text: |
-      Please read it please
+      Welcome to my blog
     feature_image: "https://picsum.photos/2560/600?image=866"
