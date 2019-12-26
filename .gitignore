@@ -1,2 +1,4 @@
-.vs
-.sass-cache
+
+.sass-cache/*
+
+.vs/*
