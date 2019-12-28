@@ -8,4 +8,4 @@ feature_text: |
 
 Thanks for visiting! Here's what I'm up to...
 
-
+{% include video.html id="2B0Um243p4E" %}
