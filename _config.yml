@@ -39,6 +39,8 @@ navigation_header:
   url: /about/
 - title: Blog
   url: /blog/
+- title: CV
+  url: /assets/Bhavin_Shah_CV.pdf
 
 # Footer nav
 navigation_footer:
