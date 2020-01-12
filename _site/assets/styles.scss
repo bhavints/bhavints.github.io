@@ -3,6 +3,8 @@ title: false
 styles: true
 ---
 
-$headingColour: #ffffff !default;
+.typeset h6 {
+    color: #ffffff;
+}
 
 @import "alembic";
