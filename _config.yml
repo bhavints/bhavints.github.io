@@ -25,7 +25,7 @@ baseurl: ''
 title: "Bhavin's Webpage"
 description: 'This is my new website'
 permalink: pretty
-logo: "/assets/Website_Profile_Picture.jpeg"
+logo: "/uploads/Website_Profile_Picture.jpeg"
 
 # Pagination
 paginate: 5

@@ -3,4 +3,4 @@ layout: page
 title: About this website
 ---
 
-This is a collection of my work and ideas.
+This website serves as a record of my work and ideas. Be sure to check out the blog!

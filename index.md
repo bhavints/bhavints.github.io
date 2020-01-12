@@ -1,7 +1,7 @@
 ---
 title: Welcome to Bhavin's Corner
 layout: page
-feature_image: "/assets/Website_Profile_Picture.jpeg"
+feature_image: "/uploads/Website_Profile_Picture.jpeg"
 feature_text: |
   ## Welcome to Bhavin's Webpage
 ---
