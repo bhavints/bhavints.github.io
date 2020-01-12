@@ -25,7 +25,7 @@ baseurl: ''
 title: "Bhavin's Webpage"
 description: 'This is my new website'
 permalink: pretty
-logo: "https://drive.google.com/open?id=18CEnJ2L0u1ZEvV9EYX77y2Z89ZcDfCES"
+logo: "https://drive.google.com/file/d/18CEnJ2L0u1ZEvV9EYX77y2Z89ZcDfCES/preview"
 
 # Pagination
 paginate: 5
