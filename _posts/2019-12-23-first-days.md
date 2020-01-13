@@ -3,10 +3,10 @@ layout: post
 title: Winter 2019
 categories:
 - Announcements
-feature_image: "uploads/mars.jpg"
+feature_image: "/uploads/mars.jpg"
 ---
 
-This blog took years to finally setup. Thank you Github pages! 
+This blog has finally been setup. Thank you Github pages! 
 
 As of this post, I have complete my first semester of junior year. Over the course of this semester, I've worked
 on Skyfarer, a mixed-reality shoulder rehabilitation game. A gameplay video is featured below:
