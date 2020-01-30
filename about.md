@@ -3,14 +3,10 @@ layout: page
 title: About this website
 ---
 
+Check out my Linkedin!
+[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/btshah)
+
 This website serves as a record of my work and ideas. Be sure to check out the blog!
-
-{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/btshah)
-
-``` html
-{% raw %}{% include icon.html id="twitter" title="twitter" %}
-[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/btshah){% endraw %}
-```
 
 I am a native of Glendale, California where I have lived my whole life. It's a beautiful place and 
 I am grateful to have grown up here.
