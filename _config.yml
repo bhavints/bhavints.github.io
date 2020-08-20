@@ -25,7 +25,7 @@ baseurl: ''
 title: "Bhavin's Webpage"
 description: 'This is my new website'
 permalink: pretty
-logo: "/uploads/Infinity_Logo.png"
+logo: "/uploads/mars-planet.png"
 
 # Pagination
 paginate: 5

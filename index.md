@@ -1,7 +1,7 @@
 ---
 title: Welcome to Bhavin's Corner
 layout: page
-feature_image: "/uploads/Website_Profile_Picture.jpeg"
+feature_image: "/uploads/MarsColony.png"
 feature_text: |
   ##
 ---
