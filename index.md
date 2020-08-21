@@ -3,7 +3,7 @@ title: Welcome to Bhavin's Corner
 layout: page
 feature_image: "/uploads/MarsColony.png"
 feature_text: |
-  ##
+
 ---
 
 Thanks for visiting! 
