@@ -8,7 +8,7 @@ feature_text: |
 
 Thanks for visiting! 
 
-At present, I am a senior Computer Science student at the University of Southern California in Los Angeles. I am a software engineer with an interest in autonomous systems of all kinds.
+At present, I am a Master's Computer Science student at the University of Southern California in Los Angeles. I am a software engineer with an interest in autonomous systems of all kinds.
 
 Here's a quick rundown of my techncial experience:
 <ul>
